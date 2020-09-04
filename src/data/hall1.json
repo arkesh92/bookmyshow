@@ -1,0 +1,51 @@
+[{
+  "category": "club",
+  "cost": 236,
+  "rows": [{
+    "sequence": "A",
+    "seats": [{
+      "id": 1,
+      "booked": true
+    },
+    {
+      "id": 2,
+      "booked": true
+    },
+    {
+      "id": 3,
+      "booked": true
+    },
+    {
+      "id": 4,
+      "booked": true
+    },
+    {
+      "id": 5,
+      "booked": true
+    }]
+  },
+  {
+    "sequence": "B",
+    "seats": [{
+      "id": 2,
+      "booked": true
+    },
+    {
+      "id": 3,
+      "booked": true
+    },
+    {
+      "id": 4,
+      "booked": true
+    },
+    {
+      "id": 5,
+      "booked": true
+    }]
+  }]
+},
+{
+  "category": "executive",
+  "cost": 225,
+  "rows": []
+}]
